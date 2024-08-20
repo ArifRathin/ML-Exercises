@@ -1,0 +1,1 @@
+https://github.com/dataquestio/project-walkthroughs/blob/master/linear_regression/teams.csv
